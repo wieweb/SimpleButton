@@ -2,7 +2,7 @@
 
 ![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)
 [![Build Status](https://travis-ci.org/aloco/SimpleButton.svg?branch=swift-3.0)](https://travis-ci.org/aloco/SimpleButton)
-![Swift 3](https://img.shields.io/badge/Swift-3-orange.svg)
+![Swift 3](https://img.shields.io/badge/Swift-4.2-orange.svg)
 
 
 UIButton subclass with animated, state-aware attributes. Easy to subclass and configure! [Full API docs](http://aloco.github.io/SimpleButton/swift_output)
@@ -81,7 +81,7 @@ Take a look at the ```Setter for state attributes``` section of the [API Docs](h
 
 ## Installation
 
-Note that SimpleButton is written in `swift 3` and may not be compatible with previous versions of swift. 
+Note that SimpleButton is written in `swift 4.2` and may not be compatible with previous versions of swift. 
 
 
 #### Carthage
